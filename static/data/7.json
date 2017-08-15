@@ -1,0 +1,93 @@
+{
+  "name": "MAREA 39",
+  "images": [],
+  "basics": {
+    "hullType": "Fin w/spade rudder",
+    "rigType": "Masthead Sloop",
+    "loa": {
+      "feet": 39.33,
+      "meters": 11.99
+    },
+    "lwl": {
+      "feet": 33.83,
+      "meters": 10.31
+    },
+    "beam": {
+      "feet": 12.75,
+      "meters": 3.89
+    },
+    "listedSa": {
+      "feet": 715,
+      "meters": 66.42
+    },
+    "draftMax": {
+      "feet": 6.9,
+      "meters": 2.1
+    },
+    "draftMin": null,
+    "displacement": 9600,
+    "ballast": 3538,
+    "sailAreaDisp1": 15.01,
+    "balDisp": 36.85,
+    "dispLen": 244.03,
+    "designer": "Vallicelli",
+    "builder": null,
+    "construction": "FG",
+    "balType": null,
+    "firstBuilt": "1984",
+    "lastBuilt": null,
+    "numBuilt": 50
+  },
+  "auxPower": {
+    "make": "Mercedes",
+    "model": null,
+    "type": "Diesel",
+    "hp": "42"
+  },
+  "rigSail": {
+    "i_ig": {
+      "feet": 52.49,
+      "meters": 16
+    },
+    "j": {
+      "feet": 14.37,
+      "meters": 4.38
+    },
+    "p": {
+      "feet": 45.27,
+      "meters": 13.8
+    },
+    "e": {
+      "feet": 11,
+      "meters": 3.35
+    },
+    "py": null,
+    "ey": null,
+    "isp": null,
+    "spl_tps": null,
+    "saFore": {
+      "feet": 377.14,
+      "meters": 35.04
+    },
+    "saMain": {
+      "feet": 248.99,
+      "meters": 23.13
+    },
+    "sailArea": {
+      "feet": 626.13,
+      "meters": 58.17
+    },
+    "sailAreaDisp2": 13.14,
+    "estForestayLength": {
+      "feet": 54.42,
+      "meters": 16.59
+    }
+  },
+  "designer": [
+    {
+      "href": "view_designer.asp?designer_id=220",
+      "title": "Andrea Vallicelli"
+    }
+  ],
+  "notes": "A number of different rig and keel options were available."
+}

@@ -1,0 +1,120 @@
+{
+  "name": "11 METER",
+  "images": [
+    {
+      "alt": "11 METER",
+      "src": "imagehelper_insig.asp?file_id=296",
+      "type": "insignia"
+    },
+    {
+      "alt": "11 Meter One-Design photo on sailboatdata.com",
+      "src": "imagehelper.asp?file_id=5500",
+      "type": "photo"
+    },
+    {
+      "alt": "11 Meter One Design drawing on sailboatdata.com",
+      "src": "imagehelper.asp?file_id=7779",
+      "type": "drawing"
+    }
+  ],
+  "basics": {
+    "hullType": "Fin w/bulb & spade rudder",
+    "rigType": "Fractional  Sloop",
+    "loa": {
+      "feet": 33.8,
+      "meters": 10.3
+    },
+    "lwl": {
+      "feet": 26.9,
+      "meters": 8.2
+    },
+    "beam": {
+      "feet": 8.2,
+      "meters": 2.5
+    },
+    "listedSa": {
+      "feet": 450,
+      "meters": 41.8
+    },
+    "draftMax": {
+      "feet": 5.9,
+      "meters": 1.8
+    },
+    "draftMin": null,
+    "displacement": 1600,
+    "ballast": 725,
+    "sailAreaDisp1": 31.16,
+    "balDisp": 45.31,
+    "dispLen": 80.89,
+    "designer": "Ron Holland & Rolf Gyhlenius",
+    "builder": null,
+    "construction": "FG w/core,Composite",
+    "balType": "Lead",
+    "firstBuilt": "1990",
+    "lastBuilt": null,
+    "numBuilt": 350
+  },
+  "rigSail": {
+    "i_ig": {
+      "feet": 32.18,
+      "meters": 9.81
+    },
+    "j": {
+      "feet": 10.18,
+      "meters": 3.1
+    },
+    "p": {
+      "feet": 36.09,
+      "meters": 11
+    },
+    "e": {
+      "feet": 13.62,
+      "meters": 4.15
+    },
+    "py": null,
+    "ey": null,
+    "isp": {
+      "feet": 41.01,
+      "meters": 12.5
+    },
+    "spl_tps": {
+      "feet": 13.12,
+      "meters": 4
+    },
+    "saFore": {
+      "feet": 163.8,
+      "meters": 15.22
+    },
+    "saMain": {
+      "feet": 245.77,
+      "meters": 22.83
+    },
+    "sailArea": {
+      "feet": 409.57,
+      "meters": 38.05
+    },
+    "sailAreaDisp2": 28.36,
+    "estForestayLength": {
+      "feet": 33.75,
+      "meters": 10.29
+    }
+  },
+  "buildersPastPresent": [
+    {
+      "href": "view_builder.asp?builder_id=33",
+      "title": "Precision Boat Works"
+    }
+  ],
+  "designer": [
+    {
+      "href": "view_designer.asp?designer_id=37",
+      "title": "Ron Holland"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "http://www.11mod.info",
+      "title": "11 Meter One Design Assoc."
+    }
+  ]
+}

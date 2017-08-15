@@ -1,0 +1,57 @@
+{
+  "name": "QUICKSILVER 30",
+  "images": [
+    {
+      "alt": "Quicksilver 30 drawing on sailboatdata.com",
+      "src": "imagehelper.asp?file_id=11799",
+      "type": "drawing"
+    }
+  ],
+  "basics": {
+    "hullType": "Fin with rudder on skeg",
+    "rigType": "Masthead  Yawl",
+    "loa": {
+      "feet": 29.75,
+      "meters": 9.07
+    },
+    "lwl": {
+      "feet": 22.75,
+      "meters": 6.93
+    },
+    "beam": {
+      "feet": 9.75,
+      "meters": 2.97
+    },
+    "listedSa": {
+      "feet": 462,
+      "meters": 42.92
+    },
+    "draftMax": {
+      "feet": 5.25,
+      "meters": 1.6
+    },
+    "draftMin": {
+      "feet": 4.25,
+      "meters": 1.3
+    },
+    "displacement": 3175,
+    "ballast": 1198,
+    "sailAreaDisp1": 20.26,
+    "balDisp": 37.73,
+    "dispLen": 265.4,
+    "designer": "Peter Norlin",
+    "builder": "Standard Boat Works (USA)",
+    "construction": "FG",
+    "balType": null,
+    "firstBuilt": "1979",
+    "lastBuilt": null,
+    "numBuilt": null
+  },
+  "auxPower": {
+    "make": "Volvo",
+    "model": null,
+    "type": "Diesel",
+    "hp": null
+  },
+  "notes": "Shallow draft: 4.25'/\r\nBased on SCAMPI 30."
+}

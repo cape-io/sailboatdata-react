@@ -1,0 +1,53 @@
+{
+  "name": "AS DE TREFLE",
+  "images": [
+    {
+      "alt": "As de Trefle drawing on sailboatdata.com",
+      "src": "imagehelper.asp?file_id=11738",
+      "type": "drawing"
+    }
+  ],
+  "basics": {
+    "hullType": "Fin w/transom hung rudder",
+    "rigType": "Fractional  Sloop",
+    "loa": {
+      "feet": 20.67,
+      "meters": 6.3
+    },
+    "lwl": {
+      "feet": 18.04,
+      "meters": 5.5
+    },
+    "beam": {
+      "feet": 7.22,
+      "meters": 2.2
+    },
+    "listedSa": {
+      "feet": 224,
+      "meters": 20.81
+    },
+    "draftMax": {
+      "feet": 3.61,
+      "meters": 1.1
+    },
+    "draftMin": null,
+    "displacement": 800,
+    "ballast": 360,
+    "sailAreaDisp1": 24.6,
+    "balDisp": 45,
+    "dispLen": 134.13,
+    "designer": "Herbulot",
+    "builder": "Constructions Mecaniques de Normandie (FRA)",
+    "construction": "Plywood/single chine",
+    "balType": null,
+    "firstBuilt": "1962",
+    "lastBuilt": null,
+    "numBuilt": null
+  },
+  "designer": [
+    {
+      "href": "view_designer.asp?designer_id=63",
+      "title": "Jean-Jacques Herbulot"
+    }
+  ]
+}
